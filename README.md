@@ -1,6 +1,9 @@
 # Hello-World for Gencyber
 
-Hey there! Have you heard about the Cybersecurity program at the University of Nebraska at Omaha? You should check it out! https://www.unomaha.edu/college-of-information-science-and-technology/academics/cybersecurity.php
+Gencyber is a free, two-week camp where students and teachers will dive deep into Cybersecurity and the Internet of Things. Students and teachers will get to IoT apps, break them to learn about the security vulnerabilities, and then tweak them to make them safer and more secure. 
 
-Their student group NuLLIFY hosts a high school CTF competition every year.
-You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
+Students will gain the opportunity to speak with security professionals, explore cybersecurity careers, and learn applicable skills.
+
+Teachers will not only experience the fun, hands-on, IoT and cybersecurity activities that students will do, but also get a chance to make IoT and cybersecurity curricula of their own. You'll have expert cybersecurity instructors on hand to help you translate what you learn at camp into your own classrooms. 
+
+Please find more information at https://www.unomaha.edu/college-of-information-science-and-technology/engagement/gencyber.php
