@@ -4,3 +4,6 @@ Hey there! Have you heard about the Cybersecurity program at the University of N
 
 Their student group NuLLIFY hosts a high school CTF competition every year.
 You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
+
+Student doing masters in Computer Science can also refer the below link to check what CyberSecurity Program has to offer them.
+https://www.unomaha.edu/college-of-information-science-and-technology/school-of-interdisciplinary-informatics/cybersecurity/ms-cybr.php
