@@ -12,3 +12,6 @@ It is tentatively scheduled for November 18th, 2017.
 
 While you are at it, you should check out the Women in IT Mentoring Program at UNO!
 https://www.unomaha.edu/college-of-information-science-and-technology/engagement/mentoring-program.php
+
+Student doing masters in Computer Science can also refer the below link to check what CyberSecurity Program has to offer them.
+https://www.unomaha.edu/college-of-information-science-and-technology/school-of-interdisciplinary-informatics/cybersecurity/ms-cybr.php
