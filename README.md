@@ -5,3 +5,6 @@ Hey there! Have you heard about the Cybersecurity program at the University of N
 Their student group NuLLIFY hosts a high school CTF competition every year.
 You can find more information at http://ctf.nullify.uno/. They will be hosting another high school CTF again this year.
 It is tentatively scheduled for November 18th, 2017. 
+
+While you are at it, you should check out the Women in IT Mentoring Program at UNO!
+https://www.unomaha.edu/college-of-information-science-and-technology/engagement/mentoring-program.php
